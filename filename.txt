@@ -1,0 +1,1 @@
+SELECT * FROM admin WHERE username='Itzkalp' AND password='d308118442f9a336501adad9bb6a60ca'
